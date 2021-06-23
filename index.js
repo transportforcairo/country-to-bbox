@@ -1,0 +1,1 @@
+exports.toBBOX = require('./src/tobbox')
